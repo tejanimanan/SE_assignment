@@ -1,0 +1,10 @@
+Q-8 What is SQL Key Constraints writing an Example of SQL Key Constraints?
+->   SQL Key Constraints are used to maintain the integrity of data in a database. They ensure that data in a table is unique and consistent. There are three types of key constraints:
+
+1. Primary Key: A primary key is a unique identifier for each row in a table. It cannot be null and must be unique.
+
+2. Foreign Key: A foreign key is a field in a table that refers to the primary key in another table. It ensures data consistency between two tables.
+
+3. Unique Key: A unique key is a field or combination of fields that must be unique in a table. It cannot be null and must be unique.
+
+4.NOT NULL - Ensures that a column cannot have a NULL value

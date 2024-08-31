@@ -1,0 +1,4 @@
+Q-7 What is DML Compiler in SQL ?
+->   DML Compiler is a part of SQL Server that compiles DML statements (INSERT , UPDATE, DELETE) into an execution plan. It is responsible for optimizing the query and generating the
+execution plan. The DML Compiler is a critical component of the SQL Server query optimizer, and it plays a key role in ensuring that queries are executed efficiently.
+

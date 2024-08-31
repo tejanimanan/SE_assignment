@@ -1,0 +1,23 @@
+Q-4 What is MF Cod Rule of RDBMS Systems?
+
+-->Dr Edgar F. Codd, after his extensive research on the Relational Model of database systems, came up with twelve 
+rules of his own, which according to him, a database must obey in order to be regarded as a true relational database.
+These rules can be applied on any database system that manages stored data using only its relational capabilities. 
+This is a foundation rule, which acts as a base for all the other rules.
+
+The twelve rules of Codd are as follows:
+1. The information rule: All data is stored in tables, and each table has a unique name
+2. The guaranteed access rule: Each table must have a primary key
+3. Systematic treatment of null values: Each field in a table can have a null value,
+4. Active online catalog: The database must have a catalog that is always available and up-to-date
+5. Comprehensive data sublanguage: The database must have a language that can be used to access and
+modify data
+6. View updating: The database must allow views to be updated
+7. High-level insert, update, and delete: The database must allow users to insert, update
+and delete data at a high level
+8. Physical data independence: The database must be independent of the physical storage of data
+9. Logical data independence: The database must be independent of the logical structure of the data
+10. Integrity independence: The database must be independent of the integrity constraints of the data
+11. Distribution independence: The database must be independent of the distribution of the data
+12. Non-subversion rule: The database must not allow any operation that could potentially violate the integrity
+of the data.

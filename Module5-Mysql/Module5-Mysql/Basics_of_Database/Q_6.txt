@@ -1,0 +1,14 @@
+Q-6  What is DDL Interpreter ?
+==========================
+The DDL Interpreter is a tool that can parse and execute Data Definition Language (DDL) statements.
+DDL statements are used to define the structure of a database, including creating, modifying, and deleting database
+schemas, tables, indexes, views, and other database objects.
+The DDL Interpreter can be used to automate the process of creating and modifying database structures, making it
+easier to manage complex database systems.
+
+-> Example Use Cases
+*   Creating a new database schema
+*   Modifying an existing table structure
+*   Deleting a database object
+
+
